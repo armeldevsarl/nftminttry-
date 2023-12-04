@@ -1,0 +1,19 @@
+{
+    "name": "myNFT #2",
+    "description": "",
+    "image": "ipfs://QmWCguX1bBtZydXGQDdUmVfrfWEmaebpjWoBtVBdFnRU8Q/NFT2.jpeg",
+    "attributes": [
+        {
+            "trait_type": "GLOBULOUS SKY",
+            "value": "MILKY COLOUR"
+        },
+        {
+            "trait_type": "REALISTIC SAND",
+            "value": "YELLOWISH"
+        },
+        {
+            "trait_type": "CLEAR WAVES",
+            "value": "CLEAR"
+        }
+    ]
+}

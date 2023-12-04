@@ -1,0 +1,19 @@
+{
+    "name": "myNFT #5",
+    "description": "",
+    "image": "ipfs://QmWCguX1bBtZydXGQDdUmVfrfWEmaebpjWoBtVBdFnRU8Q/NFT5.jpeg",
+    "attributes": [
+        {
+            "trait_type": "HORIZON",
+            "value": "MOONS AND PLANETS"
+        },
+        {
+            "trait_type": "DRAWING",
+            "value": "FULL DRAWING"
+        },
+        {
+            "trait_type": "WAVES",
+            "value": "NOT REALISTIC"
+        }
+    ]
+}

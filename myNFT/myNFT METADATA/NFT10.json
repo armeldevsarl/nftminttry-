@@ -1,0 +1,19 @@
+{
+    "name": "myNFT #10",
+    "description": "",
+    "image": "ipfs://QmWCguX1bBtZydXGQDdUmVfrfWEmaebpjWoBtVBdFnRU8Q/NFT10.jpeg",
+    "attributes": [
+        {
+            "trait_type": "HORIZON",
+            "value": "YELLOW FAR SUN MOUNTAINS SURROUNDING"
+        },
+        {
+            "trait_type": "DRAWING",
+            "value": "NET REALISTIC"
+        },
+        {
+            "trait_type": "WAVES",
+            "value": "REALISTICS"
+        }
+    ]
+}

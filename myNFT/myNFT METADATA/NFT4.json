@@ -1,0 +1,19 @@
+{
+    "name": "myNFT #4",
+    "description": "",
+    "image": "ipfs://QmWCguX1bBtZydXGQDdUmVfrfWEmaebpjWoBtVBdFnRU8Q/NFT4.jpeg",
+    "attributes": [
+        {
+            "trait_type": "HORIZON",
+            "value": "DRAWING HORIZON"
+        },
+        {
+            "trait_type": "SAND",
+            "value": "REALISTIC SAND"
+        },
+        {
+            "trait_type": "WAVES",
+            "value": "CLEAR AND REALISTIC WAVES"
+        }
+    ]
+}

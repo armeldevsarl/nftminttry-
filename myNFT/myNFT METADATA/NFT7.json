@@ -1,0 +1,19 @@
+{
+    "name": "myNFT #7",
+    "description": "",
+    "image": "ipfs://QmWCguX1bBtZydXGQDdUmVfrfWEmaebpjWoBtVBdFnRU8Q/NFT7.jpeg",
+    "attributes": [
+        {
+            "trait_type": "HORIZON ",
+            "value": "SUN FAR AWAY WITH SURROUNDING MOUNTAINS"
+        },
+        {
+            "trait_type": "DRAWING",
+            "value": "YELLOWISH FULL DRAWINGS"
+        },
+        {
+            "trait_type": "WAVES",
+            "value": "GREEN NON REALISTICS"
+        }
+    ]
+}

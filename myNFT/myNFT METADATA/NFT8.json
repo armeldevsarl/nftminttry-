@@ -1,0 +1,19 @@
+{
+    "name": "myNFT #8",
+    "description": "",
+    "image": "ipfs://QmWCguX1bBtZydXGQDdUmVfrfWEmaebpjWoBtVBdFnRU8Q/NFT8.jpeg",
+    "attributes": [
+        {
+            "trait_type": "HORIZON",
+            "value": "HEAVENLY SKY"
+        },
+        {
+            "trait_type": "WAVES",
+            "value": "WHITE AND BLACK"
+        },
+        {
+            "trait_type": "SURROUNDING",
+            "value": "PEOPLE AFAR"
+        }
+    ]
+}

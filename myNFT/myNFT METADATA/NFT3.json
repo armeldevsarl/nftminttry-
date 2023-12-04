@@ -1,0 +1,19 @@
+{
+    "name": "myNFT #3",
+    "description": "",
+    "image": "ipfs://QmWCguX1bBtZydXGQDdUmVfrfWEmaebpjWoBtVBdFnRU8Q/NFT3.jpeg",
+    "attributes": [
+        {
+            "trait_type": "DRAWING",
+            "value": "DRAW THE SKY"
+        },
+        {
+            "trait_type": "MOONING SKY",
+            "value": "TWO MOONS"
+        },
+        {
+            "trait_type": "VEGETATION",
+            "value": "SURROUNDING VEGETATION"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "myNFT #11",
+    "description": "",
+    "image": "ipfs://QmWCguX1bBtZydXGQDdUmVfrfWEmaebpjWoBtVBdFnRU8Q/NFT11.jpeg",
+    "attributes": [
+        {
+            "trait_type": "HORIZON",
+            "value": "YELLOW HEAVENLY HORIZON WITH BLACK BIRDS"
+        },
+        {
+            "trait_type": "DRAWING",
+            "value": "NOT REALISTIC"
+        },
+        {
+            "trait_type": "WAVES",
+            "value": "NOT REALISTIC"
+        }
+    ]
+}

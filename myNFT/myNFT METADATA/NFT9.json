@@ -1,0 +1,19 @@
+{
+    "name": "myNFT #9",
+    "description": "",
+    "image": "ipfs://QmWCguX1bBtZydXGQDdUmVfrfWEmaebpjWoBtVBdFnRU8Q/NFT9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "HORIZON",
+            "value": "HEAVENLY SKY YELLOW"
+        },
+        {
+            "trait_type": "DRAWING ",
+            "value": "NOT REALISTIC"
+        },
+        {
+            "trait_type": "WAVES",
+            "value": "YELLOW WHITE COLOURS"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "myNFT #6",
+    "description": "",
+    "image": "ipfs://QmWCguX1bBtZydXGQDdUmVfrfWEmaebpjWoBtVBdFnRU8Q/NFT6.jpeg",
+    "attributes": [
+        {
+            "trait_type": "HORIZON",
+            "value": "ROUNDED HORIZON WITH SUN FAR AWAY"
+        },
+        {
+            "trait_type": "DRAWING ",
+            "value": "FULL DRAWING"
+        },
+        {
+            "trait_type": "WAVES",
+            "value": "BLUE REALISTIC WAVES"
+        }
+    ]
+}

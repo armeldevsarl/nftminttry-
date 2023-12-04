@@ -1,0 +1,19 @@
+{
+    "name": "myNFT #12",
+    "description": "",
+    "image": "ipfs://QmWCguX1bBtZydXGQDdUmVfrfWEmaebpjWoBtVBdFnRU8Q/NFT12.jpeg",
+    "attributes": [
+        {
+            "trait_type": "HORIZON",
+            "value": "UP ROUNDED WAVES"
+        },
+        {
+            "trait_type": "DRAWING",
+            "value": "HEAVENLY NOT REALISTIC"
+        },
+        {
+            "trait_type": "WAVES",
+            "value": "NOT NET"
+        }
+    ]
+}

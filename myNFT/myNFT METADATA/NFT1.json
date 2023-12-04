@@ -1,0 +1,19 @@
+{
+    "name": "myNFT #1",
+    "description": "",
+    "image": "ipfs://QmWCguX1bBtZydXGQDdUmVfrfWEmaebpjWoBtVBdFnRU8Q/NFT1.jpeg",
+    "attributes": [
+        {
+            "trait_type": "WAVE SUN UP",
+            "value": " YELLOW SUN "
+        },
+        {
+            "trait_type": "REALISTIC",
+            "value": "REALISTIC WAVES"
+        },
+        {
+            "trait_type": "VEGETATION",
+            "value": "FAR AWAY VEGETATION"
+        }
+    ]
+}
